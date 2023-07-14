@@ -130,9 +130,9 @@ table {
 /* */
 
 /* ////////////////////////////////////// */
-* {
+/* * {
   border: solid 1px red !important;
-}
+} */
 
 .upper {
   display: flex;
@@ -167,7 +167,12 @@ table {
   display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
   width: 640px;
   height: 120px;
   margin: 0 auto;
 }
+
+/* .footer p {
+  line-height: 60px;
+} */
